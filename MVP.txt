@@ -1,8 +1,10 @@
 requisitos funcionais
--perfil do usuario
--crud de projetos com as views 
--avaliação de projetos com estrelas 
--feed
+
+-projetos
+#-deve ser possivel criar projetos
+#-deve ser possivel pegar projetos pelo usuario
+#-deve ser possivel editar os campos do projeto
+
 
 regras de negocio
 
