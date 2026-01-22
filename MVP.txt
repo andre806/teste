@@ -1,0 +1,17 @@
+requisitos funcionais
+-perfil do usuario
+-crud de projetos com as views 
+-avaliação de projetos com estrelas 
+-feed
+
+regras de negocio
+
+
+-ENTIDADE USER
+-nome 
+-descricao
+-avatar 
+-projetos-criados
+-projetos-curtidos
+-quantidade-estrelas 
+-quantidade-projetos 
